@@ -1,2 +1,2 @@
-# ProgramacaoNDdS
-projetos de teste para o aprendizagem
+# trabalhoNoDesenvolvimentoDeSistema
+Trabalho das 40 questões
